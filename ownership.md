@@ -1,6 +1,6 @@
 # tvr-1 lead roles and subsystem ownership
 
-tvr-1 runs on five leads under the project lead, who together own 14 subsystems between winter 2027 and a launch targeted for mid-summer 2027. For what tvr-1 is, see [readme.md](readme.md).
+tvr-1 runs on five leads + project lead, who together own 14 subsystems between winter 2027 and a launch targeted for mid-summer 2027. For what tvr-1 is, see [readme.md](readme.md).
 
 ## who owns what
 
@@ -13,7 +13,7 @@ tvr-1 runs on five leads under the project lead, who together own 14 subsystems 
 | mechanical | airframe and structure; tvc gimbal; electronics bay; recovery hardware | electrical, simulations |
 | simulations | flight and control sim; sensor fusion; recovery sim | software, mechanical |
 
-A subsystem owner is a regular member with a title. The lead above them is accountable for the subsystem on schedule and answers to the project lead.
+Any member of TVR-1 can work on the different subsystems. The lead is accountable for the subsystem on schedule, splitting up work between their teams and sending updates to the project lead.
 
 ## what every lead does
 
@@ -33,16 +33,16 @@ These gates are a proposed starting point. Each lead's milestones below are buil
 1. **winter 2027 (jan to mar): design and prototype.** Design freeze by the end of March, with a design review that every lead signs.
 2. **spring 2027 (apr to jun): build and test parts on their own.** Finished flight computer, gimbal, airframe and software, each bench-tested alone. Integration review in june.
 3. **summer 2027 (jul to aug): integrate, test the whole system, launch.** Full-system ground tests and a flight readiness review in early july, then launch in mid-july to august.
-4. **after launch:** recover, review the data, and write up what tvr-1 taught us for tvr-2.
+4. **after launch:** recover, review the data, and document what tvr-1 taught us for tvr-2.
 
 ## project lead
 
-The project lead holds tvr-1's seat on the Proxima executive board and keeps the five teams pointed at one rocket.
+The project lead holds tvr-1's seat on the Proxima executive board and keeps the five teams on track.
 
 ### systems integration
 
 - **owns:** the master requirements and interface list (mass, cg, stability, power draw, packet format, mounting), and the single source of truth for current vehicle numbers.
-- **winter 2027:** publish the interface list, run the design review, and freeze the design by the end of March.
+- **winter 2027:** publish the interface list, run full design review on every subsystem, and freeze the design by the end of March.
 - **spring 2027:** track every interface as parts get built, and settle conflicts between teams.
 - **summer 2027:** run integration and the full-system tests, then the flight readiness review.
 - **works with:** all leads.
@@ -57,7 +57,7 @@ The project lead holds tvr-1's seat on the Proxima executive board and keeps the
 
 ### exec board, budget and advisor
 
-- **owns:** the tvr-1 budget request, reporting to the Proxima executive board, and the faculty advisor relationship.
+- **owns:** the tvr-1 budget request, reporting to the Proxima executive board, and the faculty advisor.
 - **winter 2027:** present the lead structure and the budget plan, and keep the parts list matched to the budget.
 - **spring 2027:** report progress at gates and request any budget changes early.
 - **summer 2027:** launch approval paperwork and the post-launch report to the board.
@@ -65,7 +65,7 @@ The project lead holds tvr-1's seat on the Proxima executive board and keeps the
 
 ## electrical lead
 
-Electrical owns the board in the rocket and the power that keeps it alive.
+Electrical owns the board in the rocket and the power that keeps it running
 
 ### flight computer pcb
 
