@@ -1,6 +1,7 @@
 # tvr-1
 
 tvr-1 is a student-built, thrust-vector-controlled (tvc) model rocket with its own custom flight computer. This page explains what it is, how it started, where it is going and how the pieces fit. Who is responsible for what is in [ownership.md](ownership.md).
+<img width="1328" height="388" alt="Screenshot 2026-10-26 at 12 36 31 AM" src="https://github.com/user-attachments/assets/0754afb0-c499-42f7-9e8b-cb059344621b" />
 
 ## what it is
 
@@ -20,11 +21,11 @@ Most model rockets steer with fins. tvr-1 steers by tilting its motor a few degr
 
 ## how it started
 
-tvr-1 began in 2026 as an independent project by Cris Martinez Hernandez, an electrical engineering student at UW Bothell. He recruited students from electrical, mechanical and software backgrounds, and the team now has about ten active members. The first design used a 3 in airframe. After a mechanical review the airframe was enlarged to 4 in, and the simulations and control model were redone around it.
+tvr-1 began in September 2026 as an independent project by Project Lead Cris R. Martinez Hernandez, an electrical engineering student at UW Bothell. He recruited students from electrical, mechanical and software backgrounds with the goal of turning this independent project into a bigger organization, the team currently has ten active members. 
 
 ## joining Proxima Rocketry
 
-In winter quarter 2027 (around January), tvr-1 joins Proxima Rocketry, the rocketry club at UW Bothell, as its flagship project. The two keep their own leadership: Proxima's officers keep running the club and its beginner-friendly events, and tvr-1 gets a seat on Proxima's executive board plus its own team leads. The new structure will be written into Proxima's updated constitution. If you are joining through Proxima, you are welcome on tvr-1.
+In winter quarter 2027 (start of January), tvr-1 joins Proxima Rocketry, the rocketry club at UW Bothell, as its flagship project. The two keep their own leadership: Proxima's officers keep running the club and its beginner-friendly events, and tvr-1 gets a seat on Proxima's executive board plus its own team leads. The new structure will be written into Proxima's updated constitution. If you are joining through Proxima or just want to build a rocket, you are welcome on tvr-1!
 
 ## timeline
 
