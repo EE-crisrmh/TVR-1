@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  software-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run Python tests if any exist
+        run: |
+          if ls software/tests/test_*.py >/dev/null 2>&1; then
+            pip install pytest
+            pytest software/tests
+          else
+            echo "No Python tests yet."
+          fi
