@@ -1,0 +1,29 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# MATLAB autosaves
+*.asv
+*.m~
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Build output
+build/
+*.o
+*.elf
+*.hex
+*.bin
+
+# KiCad backups and caches
+*-backups/
+*.bak
+*-cache.lib
+fp-info-cache
+_autosave-*
