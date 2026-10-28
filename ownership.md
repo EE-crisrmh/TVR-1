@@ -6,7 +6,7 @@ tvr-1 runs on five leads + project lead, who together own 14 subsystems between 
 
 | lead | subsystems they own | works most with |
 | --- | --- | --- |
-| project lead | systems integration, safety and launch, exec board and budget | all leads, Proxima executive board |
+| project lead: Cris R. Martinez Hernandez | systems integration, safety and launch, exec board and budget | all leads, Proxima executive board |
 | electrical | flight computer pcb; power, battery and arming | software, comms, mechanical |
 | comms | rocket radio link; ground station hardware | electrical, software |
 | software | flight firmware and state machine; ground station software; test, ci and data logging | electrical, comms, simulations |
