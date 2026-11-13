@@ -1,6 +1,6 @@
 # electrical and simulations plan
 
-Ethan and Abraham co-lead electrical and simulations through winter, spring and summer 2027. Ethan owns the technical build. Abraham owns the schedule, the people and the outside world, plus one hands-on project of his own. For the full lead structure, see [ownership.md](ownership.md). For the flight computer parts and connections, see the flight controller spec.
+Abraham Yin Chen and Ethan Coliz co-lead electrical and simulations through winter, spring and summer 2027. Ethan owns the technical build. Abraham is the pm, plus works on a hands-on project of his own. For the full lead structure, see [ownership.md](ownership.md). For the flight computer parts and connections, see the flight controller spec.
 
 ## how the work is split
 
