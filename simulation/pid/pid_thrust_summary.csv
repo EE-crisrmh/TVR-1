@@ -1,0 +1,8 @@
+metric,simplified model,OpenRocket curve
+peak thrust (N),63.2,81.0
+time of peak (s),0.15,0.5
+average thrust over 2.0 s burn (N),61.0,55.3
+"settling time, both axes within 0.1 deg (s)",0.49,0.48
+final pitch angle at 2.0 s (deg),-0.028,-0.025
+final yaw angle at 2.0 s (deg),-0.021,-0.019
+"max combined deflection (deg), limit 5.0",5.0,5.0
