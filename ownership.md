@@ -7,11 +7,11 @@ tvr-1 runs on five leads + project lead, who together own 14 subsystems between 
 | lead | subsystems they own | works most with |
 | --- | --- | --- |
 | project lead: Cris R. Martinez Hernandez | systems integration, safety and launch, exec board and budget | all leads, Proxima executive board |
-| electrical | flight computer pcb; power, battery and arming | software, comms, mechanical |
+| electrical: Ethan Coliz | flight computer pcb; power, battery and arming | software, comms, mechanical |
 | comms | rocket radio link; ground station hardware | electrical, software |
 | software | flight firmware and state machine; ground station software; test, ci and data logging | electrical, comms, simulations |
 | mechanical | airframe and structure; tvc gimbal; electronics bay; recovery hardware | electrical, simulations |
-| simulations | flight and control sim; sensor fusion; recovery sim | software, mechanical |
+| simulations: Ethan Coliz | flight and control sim; sensor fusion; recovery sim | software, mechanical |
 
 Any member of TVR-1 can work on the different subsystems. The lead is accountable for the subsystem on schedule, splitting up work between their teams and sending updates to the project lead.
 
