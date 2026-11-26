@@ -12,6 +12,7 @@ Most model rockets steer with fins. tvr-1 steers by tilting its motor a few degr
 **what comes next:** tvr-2 will aim to land by itself, and later vehicles build on what each rocket teaches us.
 
 ## where it stands
+https://lucid.app/lucidchart/c5fceda5-199f-47d2-8c12-55605863d16a/edit?invitationId=inv_cd6ddcad-3733-4eb0-9b68-ec15f5e4ab42
 
 - Airframe: 4 in fiberglass tube, about 101 cm long.
 - Motor: G61W-6 solid motor, about 2 seconds of burn.
